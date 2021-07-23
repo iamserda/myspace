@@ -5,7 +5,7 @@ A repo containing a basic blog front-end application. App can GET, POST(fake) ne
 Made mainly to show current skills levels(more or less) to my mentor.
 
 ## Where is the Link
-<a href="https://iamserda.github.io/myspace/“ target="_blank">myspace</a>
+<a href="https://iamserda.github.io/myspace/" target="_blank">myspace</a>
 
 
 Questions, concerns, emotional outbursts? Reach out!
