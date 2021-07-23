@@ -1,7 +1,7 @@
 # MYSPACE
 
 ## What is it?
-A repo cotaining a basic blog application. App can GET, POST(fake) new post using JSONPlaceholder API.
+A repo containing a basic blog front-end application. App can GET, POST(fake) new post using JSONPlaceholder API.
 Made mainly to show current skills levels(more or less) to my mentor.
 
 ## Where is the Link
